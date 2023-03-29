@@ -20,7 +20,7 @@ Ensure you have the correct dependencies installed. All current dependencies can
 
 If you are unfamiliar with node or mysql, a video guide has been provided via a link below. 
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1n31FZ3t9Y7WTxeZMrUaY6eMMIttY-7g8/view
 
 ## Credits
 
